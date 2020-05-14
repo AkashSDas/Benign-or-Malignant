@@ -182,7 +182,7 @@ pipenv shell
 
   
 
-- dataset, jupyter notebook and model are in `'Benign-or-Malignant'/requirements.txt/src` folder.
+- dataset, jupyter notebook and model are in `'Benign-or-Malignant'/venv/src` folder.
 
   
 
