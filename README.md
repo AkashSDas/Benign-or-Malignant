@@ -94,7 +94,7 @@
 #### Confusion Matrix
 
 ```python
-  precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
            2       0.97      0.94      0.95       132
            4       0.90      0.95      0.92        73
